@@ -3,7 +3,7 @@ requires = ["setuptools==72.1.0", "wheel", "setuptools_scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "paddleocr"
+name = "je-paddleocr"
 # After each version release, the version number needs to be incremented
 dynamic = ["version"]
 description = "Awesome OCR toolkits based on PaddlePaddle(8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embedded and IoT devices)"
